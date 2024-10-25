@@ -1,0 +1,21 @@
+{
+  "name": "passport-steam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "passport": "^0.7.0",
+    "passport-steam": "^1.0.18"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
